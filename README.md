@@ -1,1 +1,1 @@
-# catalogue-service
+# book-service
